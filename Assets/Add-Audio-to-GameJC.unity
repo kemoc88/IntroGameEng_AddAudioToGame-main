@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.4494998, g: 0.49649584, b: 0.55914414, a: 1}
+  m_IndirectSpecularColor: {r: 0.44950032, g: 0.49649626, b: 0.55914444, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2979,10 +2979,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerShoot: {fileID: 8300000, guid: a4b1b171512100c4687b044b9565e18c, type: 3}
   asteroidExplosion: {fileID: 8300000, guid: 8ed8de26097cbe243a84ad68063e4fd1, type: 3}
-  playerDamage: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
-  playerExplosion: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
-  BgMusicGameplay: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
-  BgMusicTitleScreen: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
+  playerDamage: {fileID: 8300000, guid: 6b685b087342a664bb2cbf736ab74b5b, type: 3}
+  playerExplosion: {fileID: 8300000, guid: 65bee82c41918ed4c851d21de1926f4b, type: 3}
+  BgMusicGameplay: {fileID: 8300000, guid: ae2082706ebdad049a3157aba0ddd910, type: 3}
+  BgMusicTitleScreen: {fileID: 8300000, guid: 94530afbbb6e0904ba2bed8e0dd2a67b, type: 3}
 --- !u!4 &1337980917
 Transform:
   m_ObjectHideFlags: 0
