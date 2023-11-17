@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Gameplay.unity
     guid: 827567dcdec67e34ea145d78fd911ee2
+  - enabled: 1
+    path: Assets/Add-Audio-to-GameJC.unity
+    guid: 5572aad514ae4d3409c8609fa73aa5d9
   m_configObjects: {}
